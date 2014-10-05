@@ -1,0 +1,35 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4141752752"/>
+    <file name="index.css" crc="328018360" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img-logo.png" crc="30333133" ref="index"/>
+    <file name="u288-4.png" crc="3773928475" ref="index"/>
+    <file name="u303-4.png" crc="3908696311" ref="index"/>
+    <file name="u311-4.png" crc="4062906468" ref="index"/>
+    <file name="u314-4.png" crc="216054276" ref="index"/>
+    <file name="u335-4.png" crc="516883754" ref="index"/>
+    <file name="zbysek-2.jpg" crc="4081333800" ref="index"/>
+    <file name="ja.jpg" crc="222922654" ref="index"/>
+    <file name="jirkastudnicka.png" crc="82636360" ref="index"/>
+    <file name="evafortova-2.jpg" crc="432869948" ref="index"/>
+    <file name="radekbubela-2.jpg" crc="4192999224" ref="index"/>
+    <file name="karel-honzour.jpg" crc="391499064" ref="index"/>
+    <file name="landsinger.jpg" crc="521393824" ref="index"/>
+    <file name="vasekfric-2.jpg" crc="217594462" ref="index"/>
+    <file name="jirimohyla.jpg" crc="3814983134" ref="index"/>
+    <file name="u643-4.png" crc="271427100" ref="index"/>
+    <file name="u646-4.png" crc="272656166" ref="index"/>
+    <file name="u647-4.png" crc="4010913165" ref="index"/>
+    <file name="u660-4.png" crc="4137680390" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4246915955" mt="1412510928884" redirect="true"/>
+</manifest>
